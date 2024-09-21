@@ -1,0 +1,14 @@
+﻿  EnumProcesses.c
+C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\EnumProcesses\EnumProcesses.c(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\EnumProcesses\EnumProcesses.c(36,23): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\EnumProcesses\EnumProcesses.c(71,14): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\EnumProcesses\EnumProcesses.c(13,5): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\EnumProcesses\EnumProcesses.c(14,5): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\EnumProcesses\EnumProcesses.c(15,5): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\EnumProcesses\EnumProcesses.c(102,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\EnumProcesses\EnumProcesses.c(105,23): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\EnumProcesses\EnumProcesses.c(82,5): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\EnumProcesses\EnumProcesses.c(83,5): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\EnumProcesses\EnumProcesses.c(84,5): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\EnumProcesses\EnumProcesses.c(142,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  EnumProcesses.vcxproj -> C:\Users\Administrator\Desktop\MD\33.EnumProcesses\EnumProcesses\x64\Debug\EnumProcesses.exe
